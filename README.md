@@ -1,7 +1,7 @@
-<h1 align="center"> Smart Home Berbasis Arduino Uno </h1>
+<h1 align="center"> Smart Room Berbasis Arduino Uno </h1>
 
 <p align="center">
-Sistem rumah pintar dengan fitur otomatis & manual berbasis mikrokontroler
+Sistem ruangan pintar dengan fitur otomatis & manual berbasis mikrokontroler
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ Sistem rumah pintar dengan fitur otomatis & manual berbasis mikrokontroler
 
 
 ##  Deskripsi Project
-Project ini merupakan sistem **Smart Home berbasis Arduino Uno** yang mampu mengontrol lampu, kipas, dan alarm secara otomatis maupun manual.
+Project ini merupakan sistem **Smart Room berbasis Arduino Uno** yang mampu mengontrol lampu, kipas, dan alarm secara otomatis maupun manual.
 
 Sistem bekerja dengan membaca data dari sensor, kemudian diproses oleh Arduino untuk menghasilkan aksi seperti menyalakan lampu, mengaktifkan kipas, serta memberikan peringatan jika terdeteksi gas berbahaya.
 
@@ -30,7 +30,7 @@ Sistem bekerja dengan membaca data dari sensor, kemudian diproses oleh Arduino u
 ## Struktur Repository
 
 ```
-smart-home-arduino/
+smart-room-arduino/
 │
 ├── README.md
 ├── LICENSE (optional)
@@ -43,13 +43,14 @@ smart-home-arduino/
 │   ├── flowchart.png
 │   ├── diagram_blok.png
 │   ├── wiring_diagram.png
+│   ├── Schematic View Kelompok 1_Smart Room.pdf
+│   ├── Component List.csv
+│   ├── banner.png
 │
 ├── /simulation
-│   └── link_tinkercad.txt
+│   ├── link_tinkercad.txt
+│   ├── link_youtube.txt
 │
-├── /media demonstrasi
-│   ├── demo_video.mp4 
-│   └── screenshot.png
 ```
 
 
@@ -93,7 +94,7 @@ Sensor → Arduino → Output aktif sesuai kondisi → ditampilkan di LCD.
 🔗Link : https://www.tinkercad.com/things/27LdxauL5ch-smartroom?sharecode=J2Z_Fh3xIrIaM04F8W9tuFMAYUTp43Jx52KVDvwXjVw
 
 ## 🎥 Video Demo
-🔗Link : 
+🔗Link : https://youtu.be/fzk8j-MujXI
 
 
 
